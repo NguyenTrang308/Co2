@@ -1,4 +1,4 @@
-CrawData.ipynb: crawl web to scrap dât sets
+CrawData.ipynb: crawl web to scrap data sets
 
 mergedata.ipynb: simple processing the data sets and merging them together
 
